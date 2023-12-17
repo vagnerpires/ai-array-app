@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-array-app/static/css/main.277dc64a.css",
+    "main.js": "/ai-array-app/static/js/main.dea38236.js",
+    "index.html": "/ai-array-app/index.html",
+    "main.277dc64a.css.map": "/ai-array-app/static/css/main.277dc64a.css.map",
+    "main.dea38236.js.map": "/ai-array-app/static/js/main.dea38236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277dc64a.css",
+    "static/js/main.dea38236.js"
+  ]
+}
