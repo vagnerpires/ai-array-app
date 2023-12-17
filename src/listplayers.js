@@ -1,7 +1,6 @@
 import { useState } from 'react'; // Import react and useState hook
-import {Link} from 'react-router-dom'; // Import Link component
 import initialPlayers from './players'; // Import the players array
-import DisplayPlayer from './displayplayer.js';
+import DisplayPlayer from './displayplayer';
         
 function ListPlayers() {
             
